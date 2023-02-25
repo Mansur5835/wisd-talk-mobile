@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "729390628627",
+    "project_id": "wisd-talk",
+    "storage_bucket": "wisd-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729390628627:android:257d2e99dd55780ffbe4e6",
+        "android_client_info": {
+          "package_name": "wisdtalk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729390628627-3sd735b00hhc32fm04njlmjfqkrmcspu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjguDOM8ajOQX-0hfCtTdfFz8Jzel2okE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729390628627-3sd735b00hhc32fm04njlmjfqkrmcspu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729390628627-on657br0absce03t8kkgmdpqe9f4dodm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wisd-talk.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
